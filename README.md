@@ -4,6 +4,8 @@ Research Questions:
 1.	What factors have influenced song and artist success and popularity over the years?
 2.	Which is a stronger determinant of success/popularity – genre or acoustic features?
 3.	Build a predictive model based on the factors identified in (2)
+
+
 Code files:
 1. Load files and construct data frames
 2. Assess a song's musical genre against popularity
