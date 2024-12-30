@@ -1,0 +1,7 @@
+# Instructions for running the code in this repository
+# The R-code was written in R v 4.4.2 and R-Studio 2024.09.1
+# Data files are available at https://marianaossilva.github.io/DSW2019/
+#
+# First, load the files and set up dataframes: as given in '1. load files and joins.R'
+# Subsequent sections are labelled in order of use
+# 
