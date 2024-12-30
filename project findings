@@ -1,0 +1,19 @@
+INF 6027 Introduction to Data Science - Coursework Semester 1
+
+Research Questions:
+1.	What factors have influenced song and artist success and popularity over the years?
+2.	Which is a stronger determinant of success/popularity – genre or acoustic features?
+3.	Build a predictive model based on the factors identified in (2)
+
+Findings:
+•	The ‘MusicOSet’ data was used to examine song and artist success.
+•	A literature review was conducted to determine factors most likely influencing success.
+•	Artist Genre was assessed against Artist Popularity and was found to not be a good predicting factor.
+•	The most popular genres were ‘Album Rock’ and ‘Dance Pop’, each sustaining popularity over the decades.
+•	A song’s Acoustic Features were used to model song popularity.
+•	Popularity as used was a variable defined in the dataset derived from chart position and charting duration
+•	Multiple linear regression was rejected as a modelling method due to the make-up of the data, based on the number of outliers and variances not being homogeneous.
+•	A logistic regression model was used and reported an accuracy rate of 58.1% in predicting whether a song would be ‘popular’ based on the acoustic features.
+•	This is a weaker result than similar work reported in the literature. 
+•	Two acoustic features, ‘energy’ and ‘loudness’ showed the highest correlation with each other (68%) and these were used to cluster the songs as popular vs not popular with a k-nearest neighbour model.
+•	Test data not used in the model training was then classified. The  classification rate with this data was 56% correct.
