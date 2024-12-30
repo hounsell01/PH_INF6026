@@ -7,8 +7,8 @@ Research Questions:
 3.	Build a predictive model based on the factors identified in (2)
 
 Data files: 
-
-Running the code; Summary of project findings
+1. Running the code
+2. Summary of project findings
 
 Code files:
 1. Load files and construct data frames
@@ -18,3 +18,6 @@ Code files:
 5. Investigate Multiple Linear Regression (song popularity vs acoustic features)
 6. Perform Binary Logistic Regression (popularity vs acoustic feature)
 7. knn clustering to classify energy v loudness by song popularity
+
+jpeg files:
+figures used in the report
