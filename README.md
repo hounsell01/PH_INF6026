@@ -14,4 +14,4 @@ Code files:
 4. Further exploration of acoustic features
 5. Investigate Multiple Linear Regression (song popularity vs acoustic features)
 6. Perform Binary Logistic Regression (popularity vs acoustic feature)
-7. knn clustering to classiy energy v loudness by song popularity
+7. knn clustering to classify energy v loudness by song popularity
