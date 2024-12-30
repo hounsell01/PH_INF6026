@@ -1,5 +1,6 @@
 # PH_INF6026
 Data science MSc coursework semester 1 - R code with MusicOSet dataset
+
 Research Questions:
 1.	What factors have influenced song and artist success and popularity over the years?
 2.	Which is a stronger determinant of success/popularity – genre or acoustic features?
