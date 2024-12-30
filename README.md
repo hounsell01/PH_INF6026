@@ -7,7 +7,9 @@ Research Questions:
 3.	Build a predictive model based on the factors identified in (2)
 
 Data files:
-Running the code\n
+
+Running the code
+
 Summary of project findings
 
 Code files:
