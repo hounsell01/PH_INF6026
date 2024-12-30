@@ -7,8 +7,8 @@ Research Questions:
 3.	Build a predictive model based on the factors identified in (2)
 
 Data files: 
-Running the code 
-Summary of project findings 
+
+Running the code; Summary of project findings
 
 Code files:
 1. Load files and construct data frames
